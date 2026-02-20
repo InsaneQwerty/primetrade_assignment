@@ -1,0 +1,9 @@
+2026-02-21 00:13:27 - INFO - Job started
+2026-02-21 00:13:27 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-21 00:13:27 - INFO - Random seed set to 42
+2026-02-21 00:13:27 - INFO - Data loaded: 10000 rows
+2026-02-21 00:13:27 - INFO - Rolling mean calculated with window=5
+2026-02-21 00:13:27 - INFO - Signals generated
+2026-02-21 00:13:27 - INFO - Metrics: signal_rate=0.4987, rows_processed=10000
+2026-02-21 00:13:27 - INFO - Metrics written to metrics.json
+2026-02-21 00:13:27 - INFO - Job completed successfully in 34ms
